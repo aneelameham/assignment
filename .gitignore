@@ -1,0 +1,17 @@
+# Compiled files
+*.tfstate.backup
+*.tfstate.lock.info
+
+# logs
+*.log
+
+# Directories
+.terraform/
+.vagrant/
+
+# Backup files
+*.bak
+
+# ignore lock files
+*.terraform.lock.hcl
+
